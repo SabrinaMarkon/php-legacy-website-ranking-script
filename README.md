@@ -1,4 +1,4 @@
-PHP Script - Top Site Ranking System (legacy)
+PHP Script - Top Site Ranking System (legacy 2010)
 
 Site ranking website script where votes by members and visitors determine top sites (legacy).
 
